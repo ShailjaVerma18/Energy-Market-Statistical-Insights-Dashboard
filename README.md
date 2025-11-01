@@ -28,7 +28,7 @@ The analysis was carried out using **Python**, **SQL (MySQL Workbench)**, **Exce
   - **Measures of Central Tendency:** Mean, Median, Mode  
   - **Measures of Dispersion:** Variance, Standard Deviation, Range  
   - **Shape of Distribution:** Skewness, Kurtosis  
-- Visualized data distributions using `matplotlib` and `seaborn`.
+- Visualized data distributions using `boxplot`,'scatterplot' and `linechart`.
 
 ### **Key Insights**
 - Identified fluctuations and outliers in energy price data.
