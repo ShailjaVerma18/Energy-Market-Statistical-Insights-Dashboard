@@ -14,7 +14,7 @@ The analysis was carried out using **Python**, **SQL (MySQL Workbench)**, **Exce
 ---
 
 ## **Dataset**
-- **File Name:** `Data set.xlsx`  
+- **File Name:** `Data set(2).xlsx`  
 - **Description:** Contains energy market variables such as LNG, coal, and natural gas prices, market share indicators, and other energy-related attributes.
 
 ---
@@ -28,7 +28,6 @@ The analysis was carried out using **Python**, **SQL (MySQL Workbench)**, **Exce
   - **Measures of Central Tendency:** Mean, Median, Mode  
   - **Measures of Dispersion:** Variance, Standard Deviation, Range  
   - **Shape of Distribution:** Skewness, Kurtosis  
-- Visualized data distributions using `boxplot`,'scatterplot' and `linechart`.
 
 ### **Key Insights**
 - Identified fluctuations and outliers in energy price data.
@@ -61,7 +60,6 @@ The analysis was carried out using **Python**, **SQL (MySQL Workbench)**, **Exce
   - Standard Deviation → `=STDEV.P(range)`  
   - Skewness → `=SKEW(range)`  
   - Kurtosis → `=KURT(range)`
-- Created basic visualizations such as histograms and scatter plots.
 
 ### **Outcome**
 - Quick statistical overview and validation of the same metrics calculated in Python and SQL.
@@ -128,7 +126,7 @@ The analysis was carried out using **Python**, **SQL (MySQL Workbench)**, **Exce
 ## **Deliverables**
 1. Python EDA Script (`.ipynb`)  
 2. SQL Queries File (`.sql`)  
-3. Excel Workbook (`Data set.xlsx`)  
+3. Excel Workbook (`Data set(2).xlsx`)  
 4. Tableau Dashboard (Public link or `.twbx` file)  
 5. README File (Documentation)
 
